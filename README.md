@@ -23,7 +23,7 @@ npm install
 ## install developer dependencies
 
 ```console
-npm install package_name --save-dev
+npm install package_name -D
 ```
 
 ## sass watch commmand
