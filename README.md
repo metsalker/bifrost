@@ -1,24 +1,34 @@
 # bifrost
 
-install npm
+## install npm
 
-` sudo apt-get update `
+```console
+sudo apt-get update
+```
 
-` sudo apt-get install nodejs `
+```console
+sudo apt-get install nodejs
+```
 
-` sudo apt-get install npm `
+```console
+sudo apt-get install npm
+```
 
-install packages
+## install packages
 
-` npm install `
+```console
+npm install
+```
 
-install developer dependencies
+## install developer dependencies
 
-` npm install package_name --save-dev `
+```console
+npm install package_name --save-dev
+```
 
+## sass watch commmand
 
-sass watch commmand
-
-` sass --watch assets/scss:assets/css `
-
+```console
+sass --watch assets/scss:assets/css
+```
 
