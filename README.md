@@ -32,3 +32,6 @@ npm install package_name -D
 sass --watch assets/scss:assets/css
 ```
 
+## html webpack tutorial
+
+https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/
